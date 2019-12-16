@@ -1,0 +1,8 @@
+on regarde le mot proposé par le joueur:
+pour tab[k] on regarde si c'est in le vrai mot 
+	si oui: 
+		si la place est la même
+			on affiche en rouge
+		sinon 
+			on affcihe en jaune
+	si non on affiche en bleu 
